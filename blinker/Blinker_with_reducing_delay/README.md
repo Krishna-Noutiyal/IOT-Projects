@@ -8,4 +8,4 @@ This Arduino code is for 3 LEDs that light up one by one and the delay between t
 ---
 Play the below video to see how the blinker work in real life.
 
-[../../assets/blinker01.mp4]
+![Blinker Working](../asset/blinker01.mp4)
