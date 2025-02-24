@@ -1,6 +1,6 @@
 
 
-int DELAY = 500; // Initail delay
+int DELAY = 1000; // Initail delay
 int RESET = DELAY; // Variable to reset to default delay
 int DECREMENT = 500; // value to be decresed each time
 
@@ -20,13 +20,14 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-
+/*
   if (n >=DECREMENT*0.1){
     DELAY = RESET;
     n = 0;
   }
-  else if (DELAY <=100 ){
-    DELAY = 100;
+  */
+  if (DELAY <=100 ){
+    DELAY = 0;
     n++;
   }
   else if (DELAY <= DECREMENT){
