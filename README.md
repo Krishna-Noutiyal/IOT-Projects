@@ -35,10 +35,3 @@ This repository contains a collection of projects related to the Internet of Thi
 
 Contributions are welcome!  
 Feel free to open issues or submit pull requests for improvements or new projects.
-
-## License
-
-This repository is licensed under the MIT License.
-
----
-*Happy hacking with IoT!*
